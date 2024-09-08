@@ -9,6 +9,7 @@ public class calculator {
 //    }
     public int add(int a, double b) {
         return (int)(a+b); //casting --> double to an integer
+
     }
     public int add(int a, int b, int c) {
         return a+b+c;
